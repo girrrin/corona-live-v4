@@ -242,7 +242,6 @@ const Cell = styled("div", {
 const StyledTable = styled("table", {
   overflowY: "auto",
   borderSpacing: `${rem(6)} ${rem(2)}`,
-  tableLayout: "fixed",
 
   "& thead th": {
     whiteSpace: "nowrap",
