@@ -66,6 +66,7 @@ const containedTabCss = {
   }),
   activeTabTextCss: css({
     subtitle3: true,
+    wordBreak: "keep-all",
   }),
   tabIndicatorCss: css({
     borderRadius: rem(12),
